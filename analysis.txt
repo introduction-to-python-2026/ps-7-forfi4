@@ -1,1 +1,15 @@
+Data Analysis Report: Iris Dataset
 
+1. Dataset Overview
+I selected the Iris dataset, which contains measurements for 150 iris flowers from three different species (setosa, versicolor, and virginica). The features include sepal length, sepal width, petal length, and petal width.
+
+2. Observations from Histograms
+The histogram for 'petal length' reveals a bimodal distribution. There is a distinct group of flowers with very short petals (identified as the 'setosa' species in the plot) that is completely separated from the other two species.
+
+3. Correlation Analysis
+I generated a scatter plot to analyze the relationship between 'petal length' and 'petal width'. 
+
+Observation:
+There is a very strong, positive linear correlation between petal length and petal width. As the length of the petal increases, the width tends to increase as well.
+
+The regression line added to the plot confirms this trend clearly. The data points cluster tightly around this line, indicating that petal dimensions are highly predictive of one another.
